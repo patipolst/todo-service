@@ -21,11 +21,11 @@ This service is written in Java using Jersey Framework, Grizzly Container, and M
 1. Open a Terminal or Command Prompt window.
 2. Change the project directory:  
   ```
-  cd C:\examples\todo-service.
+  cd C:\examples\todo-service
   ```
 3. Execute the project using [Maven](https://maven.apache.org/):  
   ```
-  mvn exec:java.
+  mvn exec:java
   ```
 4. We will test the service in [Postman](http://www.getpostman.com/). Launch Postman.
 5. Enter method and URL as follows
